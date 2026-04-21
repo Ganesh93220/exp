@@ -22,12 +22,17 @@
             padding-bottom: 5px;
         }
           form input[type="submit"] {
-            background-color: #ffffff;
-            color: rgb(78, 203, 69);
+            background-color: #90bd91;
+            color: rgb(42, 175, 53);
             border: none;
             cursor: pointer;
             font-size: 16px;
         }
+        form input[type="submit"]:hover {
+            background-color: #142b6f;
+        }
+
+
 
 
 
