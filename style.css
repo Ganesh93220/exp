@@ -6,9 +6,16 @@
             font-family: Arial, sans-serif;
         }
          body {
-            background-color: #ded2fa;
-            color: #333;
+            background-color: #fdfdfd;
+            color: #000000;
         }
+         header {
+            background-color: #37016a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+         }
+
 
 
 
