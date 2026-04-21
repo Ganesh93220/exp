@@ -21,6 +21,14 @@
             border-bottom: 2px solid #1e3a8a;
             padding-bottom: 5px;
         }
+          form input[type="submit"] {
+            background-color: #ffffff;
+            color: rgb(78, 203, 69);
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
 
 
 
